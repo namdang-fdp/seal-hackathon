@@ -1,10 +1,10 @@
 """
 Database probe script — Inspect table schemas, vector dimensions, and sample data.
 """
+
 import psycopg2
 import psycopg2.extras
 
-DB_DSN = "postgresql://postgres:123456@52.220.77.141:5432/se"
 
 def main():
     conn = psycopg2.connect(DB_DSN)
@@ -22,7 +22,7 @@ def main():
         print(f"  - {row['table_name']}")
 
     # 2. Schema for SQL tables
-    for tbl in ['nhat_ky_dong_goi_lai', 'theo_doi_giao_noi_dia']:
+    for tbl in ["nhat_ky_dong_goi_lai", "theo_doi_giao_noi_dia"]:
         print(f"\n{'=' * 60}")
         print(f"2. SCHEMA: {tbl}")
         print(f"{'=' * 60}")
@@ -32,7 +32,9 @@ def main():
             WHERE table_name = '{tbl}' ORDER BY ordinal_position
         """)
         for row in cur.fetchall():
-            print(f"  {row['column_name']:30s} {row['data_type']:20s} nullable={row['is_nullable']}")
+            print(
+                f"  {row['column_name']:30s} {row['data_type']:20s} nullable={row['is_nullable']}"
+            )
         cur.execute(f"SELECT COUNT(*) as cnt FROM {tbl}")
         print(f"  → Total rows: {cur.fetchone()['cnt']}")
 
@@ -56,7 +58,9 @@ def main():
         WHERE table_name = 'langchain_pg_embedding' ORDER BY ordinal_position
     """)
     for row in cur.fetchall():
-        print(f"  {row['column_name']:30s} {row['data_type']:20s} udt={row['udt_name']}")
+        print(
+            f"  {row['column_name']:30s} {row['data_type']:20s} udt={row['udt_name']}"
+        )
 
     # 5. Vector dimension — get one embedding and check length
     print(f"\n{'=' * 60}")
@@ -65,8 +69,8 @@ def main():
     cur.execute("SELECT embedding::text FROM langchain_pg_embedding LIMIT 1")
     row = cur.fetchone()
     if row:
-        vec_str = row['embedding'].strip('[]')
-        dim = len(vec_str.split(','))
+        vec_str = row["embedding"].strip("[]")
+        dim = len(vec_str.split(","))
         print(f"  Vector dimension: {dim}")
     else:
         print("  No embeddings found!")
@@ -102,7 +106,7 @@ def main():
         print(f"  {row['name']}: {row['cnt']} embeddings")
 
     # 8. Sample SQL data
-    for tbl in ['nhat_ky_dong_goi_lai', 'theo_doi_giao_noi_dia']:
+    for tbl in ["nhat_ky_dong_goi_lai", "theo_doi_giao_noi_dia"]:
         print(f"\n{'=' * 60}")
         print(f"8. SAMPLE DATA: {tbl} (2 rows)")
         print(f"{'=' * 60}")
@@ -114,6 +118,7 @@ def main():
 
     cur.close()
     conn.close()
+
 
 if __name__ == "__main__":
     main()

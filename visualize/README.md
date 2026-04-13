@@ -24,7 +24,7 @@ Open **http://localhost:5001** in your browser.
 
 ## Environment Variables
 
-| Variable | Default | Description |
-|---|---|---|
-| `DB_CONNECTION` | `postgresql://postgres:123456@52.220.77.141:5432/se` | PostgreSQL DSN |
-| `PORT` | `5001` | Server port |
+| Variable        | Default         | Description    |
+| --------------- | --------------- | -------------- |
+| `DB_CONNECTION` | `postgresql://` | PostgreSQL DSN |
+| `PORT`          | `5001`          | Server port    |

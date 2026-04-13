@@ -24,7 +24,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 # ── Config ────────────────────────────────────────────────────
 DB_DSN = os.getenv(
     "DB_CONNECTION",
-    "postgresql://postgres:123456@52.220.77.141:5432/se",
+    "postgresql",
 )
 HOST = os.getenv("HOST", "0.0.0.0")
 PORT = int(os.getenv("PORT", 5001))

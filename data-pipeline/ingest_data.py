@@ -12,14 +12,12 @@ Usage:
 import sys
 import pandas as pd
 from sqlalchemy import create_engine, text as sa_text
-from sqlalchemy.types import (
-    VARCHAR, INTEGER, NUMERIC, TIMESTAMP, DATE, TEXT
-)
+from sqlalchemy.types import VARCHAR, INTEGER, NUMERIC, TIMESTAMP, DATE, TEXT
 
 # ============================================================
 # CONFIG
 # ============================================================
-DB_CONNECTION = "postgresql://postgres:123456@52.220.77.141:5432/se"
+DB_CONNECTION = "postgresql:"
 
 FILE_REPACK = "../dataset/nhat_ky_dong_goi_lai.csv"
 FILE_DELIVERY = "../dataset/theo_doi_giao_noi_dia.csv"
@@ -62,12 +60,24 @@ def clean_repack(df: pd.DataFrame) -> pd.DataFrame:
     log("CLEAN", "Đang clean data bảng nhat_ky_dong_goi_lai...")
 
     # --- Fill NaN ---
-    int_cols = ["original_box_count", "new_box_count", "repack_fee_vnd", "material_cost_vnd"]
+    int_cols = [
+        "original_box_count",
+        "new_box_count",
+        "repack_fee_vnd",
+        "material_cost_vnd",
+    ]
     float_cols = ["original_weight_kg", "new_weight_kg"]
     text_cols = [
-        "repack_id", "tracking_code", "order_code", "customer_code",
-        "reason", "repack_staff", "approved_by", "status",
-        "before_photo_url", "after_photo_url"
+        "repack_id",
+        "tracking_code",
+        "order_code",
+        "customer_code",
+        "reason",
+        "repack_staff",
+        "approved_by",
+        "status",
+        "before_photo_url",
+        "after_photo_url",
     ]
     datetime_cols = ["requested_at", "completed_at"]
 
@@ -92,10 +102,20 @@ def clean_delivery(df: pd.DataFrame) -> pd.DataFrame:
     # --- Fill NaN ---
     int_cols = ["shipping_fee_vnd", "cod_amount", "attempt_count"]
     text_cols = [
-        "delivery_id", "tracking_code", "order_code", "customer_code",
-        "recipient_name", "recipient_phone", "province", "district",
-        "full_address", "carrier", "carrier_tracking_code",
-        "domestic_warehouse", "delivery_status", "delivery_note"
+        "delivery_id",
+        "tracking_code",
+        "order_code",
+        "customer_code",
+        "recipient_name",
+        "recipient_phone",
+        "province",
+        "district",
+        "full_address",
+        "carrier",
+        "carrier_tracking_code",
+        "domestic_warehouse",
+        "delivery_status",
+        "delivery_note",
     ]
     date_cols = ["scheduled_date", "actual_delivery_date"]
 
@@ -107,7 +127,9 @@ def clean_delivery(df: pd.DataFrame) -> pd.DataFrame:
         df[col] = pd.to_datetime(df[col], errors="coerce").dt.date
 
     # Ép phone thành string (tránh lưu dạng số)
-    df["recipient_phone"] = df["recipient_phone"].astype(str).str.replace(".0", "", regex=False)
+    df["recipient_phone"] = (
+        df["recipient_phone"].astype(str).str.replace(".0", "", regex=False)
+    )
 
     null_count = df.isnull().sum().sum()
     log("CLEAN", f"  ✓ Clean xong. Remaining NaN: {null_count}")
@@ -229,7 +251,9 @@ def main():
         log("VERIFY", "Kiểm tra row count...")
         with engine.connect() as conn:
             r1 = conn.execute(sa_text(f"SELECT COUNT(*) FROM {TABLE_REPACK}")).scalar()
-            r2 = conn.execute(sa_text(f"SELECT COUNT(*) FROM {TABLE_DELIVERY}")).scalar()
+            r2 = conn.execute(
+                sa_text(f"SELECT COUNT(*) FROM {TABLE_DELIVERY}")
+            ).scalar()
         log("VERIFY", f"  ✓ {TABLE_REPACK}: {r1} rows")
         log("VERIFY", f"  ✓ {TABLE_DELIVERY}: {r2} rows")
     except Exception as e:
