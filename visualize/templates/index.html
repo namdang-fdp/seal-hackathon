@@ -1,0 +1,727 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vector Embedding Visualizer — RAGNAROK</title>
+
+  <!-- Plotly.js -->
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js" charset="utf-8"></script>
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+
+  <style>
+    /* ── Reset & Base ──────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --bg: #0a0a0f;
+      --bg-card: rgba(255,255,255,0.04);
+      --bg-card-hover: rgba(255,255,255,0.07);
+      --border: rgba(255,255,255,0.08);
+      --text: #e4e4e7;
+      --text-dim: #71717a;
+      --accent: #818cf8;
+      --accent-2: #a78bfa;
+      --accent-3: #f472b6;
+      --success: #34d399;
+      --font: 'Inter', -apple-system, system-ui, sans-serif;
+      --radius: 12px;
+    }
+    html { font-size: 14px; }
+    body {
+      font-family: var(--font);
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      overflow: hidden;
+    }
+
+    /* ── Layout ────────────────────────────────────── */
+    .app {
+      display: grid;
+      grid-template-columns: 320px 1fr;
+      grid-template-rows: auto 1fr;
+      height: 100vh;
+    }
+
+    /* ── Header ────────────────────────────────────── */
+    .header {
+      grid-column: 1 / -1;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 16px 24px;
+      border-bottom: 1px solid var(--border);
+      background: rgba(10,10,15,0.8);
+      backdrop-filter: blur(20px);
+      z-index: 10;
+    }
+    .header-left { display: flex; align-items: center; gap: 12px; }
+    .logo {
+      width: 36px; height: 36px;
+      background: linear-gradient(135deg, var(--accent), var(--accent-3));
+      border-radius: 10px;
+      display: flex; align-items: center; justify-content: center;
+      font-weight: 700; font-size: 16px; color: #fff;
+    }
+    .header h1 { font-size: 1.15rem; font-weight: 600; letter-spacing: -0.02em; }
+    .header h1 span { color: var(--text-dim); font-weight: 400; }
+    .header-stats {
+      display: flex; gap: 20px; font-size: 0.85rem; color: var(--text-dim);
+    }
+    .header-stats strong { color: var(--accent); font-weight: 600; }
+
+    /* ── Sidebar ───────────────────────────────────── */
+    .sidebar {
+      border-right: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      overflow-y: auto;
+      background: rgba(10,10,15,0.5);
+      backdrop-filter: blur(16px);
+    }
+    .sidebar-section {
+      padding: 16px;
+      border-bottom: 1px solid var(--border);
+    }
+    .sidebar-section h3 {
+      font-size: 0.7rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--text-dim);
+      margin-bottom: 12px;
+    }
+
+    /* Controls */
+    .control-group { margin-bottom: 14px; }
+    .control-group label {
+      display: block;
+      font-size: 0.8rem;
+      color: var(--text-dim);
+      margin-bottom: 6px;
+      font-weight: 500;
+    }
+    select, input[type="number"], input[type="text"] {
+      width: 100%;
+      padding: 8px 12px;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: var(--text);
+      font-family: var(--font);
+      font-size: 0.85rem;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    select:focus, input:focus {
+      border-color: var(--accent);
+    }
+    select option { background: #1a1a2e; }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      width: 100%;
+      padding: 10px 16px;
+      border: none;
+      border-radius: 8px;
+      font-family: var(--font);
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .btn-primary {
+      background: linear-gradient(135deg, var(--accent), var(--accent-2));
+      color: #fff;
+    }
+    .btn-primary:hover { opacity: 0.9; transform: translateY(-1px); }
+    .btn-primary:disabled {
+      opacity: 0.4; cursor: not-allowed; transform: none;
+    }
+    .btn-outline {
+      background: transparent;
+      border: 1px solid var(--border);
+      color: var(--text-dim);
+    }
+    .btn-outline:hover { border-color: var(--accent); color: var(--text); }
+
+    /* Collection list */
+    .collection-list { display: flex; flex-direction: column; gap: 6px; }
+    .collection-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 12px;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .collection-item:hover { background: var(--bg-card-hover); }
+    .collection-item.active { border-color: var(--accent); background: rgba(129,140,248,0.08); }
+    .collection-dot {
+      width: 10px; height: 10px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+    .collection-name {
+      flex: 1;
+      font-size: 0.85rem;
+      font-weight: 500;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .collection-count {
+      font-size: 0.75rem;
+      color: var(--text-dim);
+      background: rgba(255,255,255,0.06);
+      padding: 2px 8px;
+      border-radius: 12px;
+    }
+
+    /* ── Detail Panel ──────────────────────────────── */
+    .detail-panel {
+      padding: 16px;
+    }
+    .detail-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 16px;
+      display: none;
+    }
+    .detail-card.visible { display: block; }
+    .detail-card h4 {
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: var(--accent);
+      margin-bottom: 8px;
+    }
+    .detail-card .snippet {
+      font-size: 0.8rem;
+      color: var(--text-dim);
+      line-height: 1.5;
+      max-height: 120px;
+      overflow-y: auto;
+      margin-bottom: 10px;
+      padding: 10px;
+      background: rgba(0,0,0,0.3);
+      border-radius: 6px;
+      word-break: break-word;
+    }
+    .detail-meta {
+      font-size: 0.75rem;
+      color: var(--text-dim);
+    }
+    .detail-meta dt { color: var(--text); font-weight: 500; margin-top: 6px; }
+    .detail-meta dd { margin-left: 0; }
+
+    .neighbours-title {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--text-dim);
+      margin: 14px 0 8px;
+      font-weight: 600;
+    }
+    .neighbour-item {
+      padding: 8px 10px;
+      background: rgba(0,0,0,0.2);
+      border-radius: 6px;
+      margin-bottom: 4px;
+      font-size: 0.78rem;
+      cursor: pointer;
+      transition: background 0.15s;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .neighbour-item:hover { background: rgba(129,140,248,0.1); }
+    .neighbour-sim {
+      font-weight: 600;
+      color: var(--success);
+      font-size: 0.75rem;
+    }
+    .neighbour-text {
+      flex: 1;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      margin-right: 8px;
+    }
+
+    /* ── Main Area ─────────────────────────────────── */
+    .main {
+      position: relative;
+      overflow: hidden;
+    }
+    #plot {
+      width: 100%;
+      height: 100%;
+    }
+
+    /* Loading overlay */
+    .loading-overlay {
+      position: absolute;
+      inset: 0;
+      background: rgba(10,10,15,0.85);
+      backdrop-filter: blur(8px);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      z-index: 100;
+      transition: opacity 0.3s;
+    }
+    .loading-overlay.hidden { opacity: 0; pointer-events: none; }
+    .spinner {
+      width: 48px; height: 48px;
+      border: 3px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .loading-text {
+      margin-top: 16px;
+      font-size: 0.9rem;
+      color: var(--text-dim);
+    }
+
+    /* ── Search ────────────────────────────────────── */
+    .search-box {
+      position: relative;
+    }
+    .search-box input {
+      padding-left: 36px;
+    }
+    .search-icon {
+      position: absolute;
+      left: 12px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-dim);
+      font-size: 0.85rem;
+    }
+
+    /* ── Scrollbar ─────────────────────────────────── */
+    ::-webkit-scrollbar { width: 6px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb {
+      background: rgba(255,255,255,0.1);
+      border-radius: 3px;
+    }
+    ::-webkit-scrollbar-thumb:hover { background: rgba(255,255,255,0.2); }
+
+    /* ── Responsive ────────────────────────────────── */
+    @media (max-width: 768px) {
+      .app { grid-template-columns: 1fr; }
+      .sidebar { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <div class="app">
+    <!-- ── Header ──────────────────────────────── -->
+    <header class="header">
+      <div class="header-left">
+        <div class="logo">⬡</div>
+        <h1>Vector Visualizer <span>— RAGNAROK</span></h1>
+      </div>
+      <div class="header-stats" id="stats">
+        <span>Points: <strong id="stat-total">0</strong></span>
+        <span>Dimensions: <strong id="stat-dim">—</strong></span>
+        <span>Method: <strong id="stat-method">—</strong></span>
+      </div>
+    </header>
+
+    <!-- ── Sidebar ─────────────────────────────── -->
+    <aside class="sidebar">
+      <!-- Controls -->
+      <div class="sidebar-section">
+        <h3>⚙️ Controls</h3>
+        <div class="control-group">
+          <label>Reduction Method</label>
+          <select id="method-select">
+            <option value="tsne" selected>t-SNE (better clusters)</option>
+            <option value="pca">PCA (faster)</option>
+          </select>
+        </div>
+        <div class="control-group">
+          <label>Max Points</label>
+          <input id="limit-input" type="number" value="500" min="10" max="2000" step="50" />
+        </div>
+        <div class="control-group">
+          <label>Similarity Top-K</label>
+          <input id="topk-input" type="number" value="8" min="1" max="50" />
+        </div>
+        <button class="btn btn-primary" id="btn-load" onclick="loadEmbeddings()">
+          🔄 Load & Visualize
+        </button>
+      </div>
+
+      <!-- Search -->
+      <div class="sidebar-section">
+        <h3>🔍 Search Documents</h3>
+        <div class="search-box">
+          <span class="search-icon">⌕</span>
+          <input id="search-input" type="text" placeholder="Search in snippets..." oninput="filterPoints(this.value)" />
+        </div>
+      </div>
+
+      <!-- Collections -->
+      <div class="sidebar-section">
+        <h3>📦 Collections</h3>
+        <div class="collection-list" id="collection-list">
+          <div style="color: var(--text-dim); font-size: 0.8rem;">Loading…</div>
+        </div>
+      </div>
+
+      <!-- Detail Panel -->
+      <div class="detail-panel">
+        <div class="detail-card" id="detail-card">
+          <h4 id="detail-title">Selected Embedding</h4>
+          <div class="snippet" id="detail-snippet"></div>
+          <dl class="detail-meta" id="detail-meta"></dl>
+          <div class="neighbours-title">Nearest Neighbours</div>
+          <div id="neighbours-list"></div>
+        </div>
+      </div>
+    </aside>
+
+    <!-- ── Main Plot ───────────────────────────── -->
+    <div class="main">
+      <div class="loading-overlay" id="loading">
+        <div class="spinner"></div>
+        <div class="loading-text" id="loading-text">Connecting to database…</div>
+      </div>
+      <div id="plot"></div>
+    </div>
+  </div>
+
+  <script>
+    // ── State ──────────────────────────────────────
+    let allPoints = [];
+    let collections = [];
+    let selectedCollections = new Set();
+    const COLORS = [
+      '#818cf8', '#f472b6', '#34d399', '#fbbf24', '#fb923c',
+      '#a78bfa', '#22d3ee', '#f87171', '#4ade80', '#e879f9',
+      '#38bdf8', '#facc15', '#fb7185', '#2dd4bf', '#c084fc',
+    ];
+    let colorMap = {};
+
+    // ── Init ──────────────────────────────────────
+    document.addEventListener('DOMContentLoaded', async () => {
+      await loadCollections();
+      await loadEmbeddings();
+    });
+
+    // ── API calls ─────────────────────────────────
+    async function loadCollections() {
+      try {
+        const res = await fetch('/api/collections');
+        collections = await res.json();
+        renderCollections();
+        // Select all by default
+        collections.forEach(c => selectedCollections.add(c.name));
+      } catch (e) {
+        console.error('Failed to load collections', e);
+      }
+    }
+
+    async function loadEmbeddings() {
+      const btn = document.getElementById('btn-load');
+      btn.disabled = true;
+      showLoading('Fetching embeddings & running dimensionality reduction…');
+
+      const method = document.getElementById('method-select').value;
+      const limit = document.getElementById('limit-input').value;
+      const cols = [...selectedCollections].join(',');
+
+      try {
+        const res = await fetch(
+          `/api/embeddings?collections=${encodeURIComponent(cols)}&limit=${limit}&method=${method}`
+        );
+        const data = await res.json();
+        allPoints = data.points || [];
+
+        // Update stats
+        document.getElementById('stat-total').textContent = data.stats?.total || 0;
+        document.getElementById('stat-dim').textContent = data.stats?.original_dim || '—';
+        document.getElementById('stat-method').textContent = (data.stats?.method || method).toUpperCase();
+
+        renderPlot(allPoints);
+      } catch (e) {
+        console.error('Failed to load embeddings', e);
+        document.getElementById('loading-text').textContent = '❌ Failed to connect. Is the DB reachable?';
+      } finally {
+        btn.disabled = false;
+      }
+    }
+
+    async function loadSimilarity(embId) {
+      const topK = document.getElementById('topk-input').value;
+      try {
+        const res = await fetch(`/api/similarity?id=${encodeURIComponent(embId)}&top_k=${topK}`);
+        return await res.json();
+      } catch (e) {
+        console.error('Similarity lookup failed', e);
+        return null;
+      }
+    }
+
+    // ── Render Collections ────────────────────────
+    function renderCollections() {
+      const el = document.getElementById('collection-list');
+      if (!collections.length) {
+        el.innerHTML = '<div style="color:var(--text-dim);font-size:0.8rem">No collections found</div>';
+        return;
+      }
+      el.innerHTML = collections.map((c, i) => {
+        const color = COLORS[i % COLORS.length];
+        colorMap[c.name] = color;
+        return `
+          <div class="collection-item active"
+               data-name="${c.name}"
+               onclick="toggleCollection(this, '${c.name}')">
+            <span class="collection-dot" style="background:${color}"></span>
+            <span class="collection-name" title="${c.name}">${c.name}</span>
+            <span class="collection-count">${c.embedding_count}</span>
+          </div>
+        `;
+      }).join('');
+    }
+
+    function toggleCollection(el, name) {
+      if (selectedCollections.has(name)) {
+        selectedCollections.delete(name);
+        el.classList.remove('active');
+      } else {
+        selectedCollections.add(name);
+        el.classList.add('active');
+      }
+    }
+
+    // ── Render 3D Plot ────────────────────────────
+    function renderPlot(points) {
+      if (!points.length) {
+        hideLoading();
+        Plotly.newPlot('plot', [], getLayout(), { responsive: true });
+        return;
+      }
+
+      // Group by collection
+      const groups = {};
+      points.forEach(p => {
+        if (!groups[p.collection]) groups[p.collection] = [];
+        groups[p.collection].push(p);
+      });
+
+      const traces = Object.entries(groups).map(([name, pts]) => ({
+        type: 'scatter3d',
+        mode: 'markers',
+        name: name,
+        x: pts.map(p => p.x),
+        y: pts.map(p => p.y),
+        z: pts.map(p => p.z),
+        text: pts.map(p => {
+          const snip = (p.snippet || '').substring(0, 100);
+          return `<b>${name}</b><br>${snip}…`;
+        }),
+        customdata: pts.map(p => p.id),
+        hovertemplate: '%{text}<extra></extra>',
+        marker: {
+          size: 4,
+          color: colorMap[name] || '#818cf8',
+          opacity: 0.85,
+          line: { width: 0.5, color: 'rgba(255,255,255,0.15)' },
+        },
+      }));
+
+      Plotly.newPlot('plot', traces, getLayout(), {
+        responsive: true,
+        displayModeBar: true,
+        modeBarButtonsToRemove: ['toImage'],
+        displaylogo: false,
+      });
+
+      // Click handler
+      const plotEl = document.getElementById('plot');
+      plotEl.on('plotly_click', async (data) => {
+        const pt = data.points[0];
+        const embId = pt.customdata;
+        const original = allPoints.find(p => p.id === embId);
+        if (!original) return;
+
+        showDetail(original);
+
+        const simData = await loadSimilarity(embId);
+        if (simData) {
+          showNeighbours(simData.neighbours);
+          highlightNeighbours(original, simData.neighbours);
+        }
+      });
+
+      hideLoading();
+    }
+
+    function getLayout() {
+      return {
+        paper_bgcolor: 'rgba(0,0,0,0)',
+        plot_bgcolor: 'rgba(0,0,0,0)',
+        font: { family: 'Inter', color: '#e4e4e7', size: 11 },
+        margin: { l: 0, r: 0, t: 0, b: 0 },
+        scene: {
+          bgcolor: 'rgba(0,0,0,0)',
+          xaxis: { showgrid: true, gridcolor: 'rgba(255,255,255,0.04)', zeroline: false, showticklabels: false, title: '' },
+          yaxis: { showgrid: true, gridcolor: 'rgba(255,255,255,0.04)', zeroline: false, showticklabels: false, title: '' },
+          zaxis: { showgrid: true, gridcolor: 'rgba(255,255,255,0.04)', zeroline: false, showticklabels: false, title: '' },
+        },
+        legend: {
+          x: 1, y: 1,
+          bgcolor: 'rgba(10,10,15,0.7)',
+          bordercolor: 'rgba(255,255,255,0.08)',
+          borderwidth: 1,
+          font: { size: 11 },
+        },
+        showlegend: true,
+      };
+    }
+
+    // ── Detail Panel ──────────────────────────────
+    function showDetail(point) {
+      const card = document.getElementById('detail-card');
+      card.classList.add('visible');
+      document.getElementById('detail-title').textContent = `📌 ${point.collection}`;
+      document.getElementById('detail-snippet').textContent = point.snippet || '(no document)';
+
+      const metaEl = document.getElementById('detail-meta');
+      let html = `<dt>ID</dt><dd style="word-break:break-all;font-size:0.7rem">${point.id}</dd>`;
+      if (point.metadata) {
+        Object.entries(point.metadata).forEach(([k, v]) => {
+          html += `<dt>${k}</dt><dd>${typeof v === 'object' ? JSON.stringify(v) : v}</dd>`;
+        });
+      }
+      metaEl.innerHTML = html;
+    }
+
+    function showNeighbours(neighbours) {
+      const el = document.getElementById('neighbours-list');
+      if (!neighbours.length) {
+        el.innerHTML = '<div style="color:var(--text-dim);font-size:0.78rem">No neighbours found</div>';
+        return;
+      }
+      el.innerHTML = neighbours.map(n => `
+        <div class="neighbour-item" onclick="scrollToPoint('${n.id}')">
+          <span class="neighbour-text" title="${(n.snippet||'').replace(/"/g, '&quot;')}">${n.snippet || n.id}</span>
+          <span class="neighbour-sim">${(n.similarity * 100).toFixed(1)}%</span>
+        </div>
+      `).join('');
+    }
+
+    function highlightNeighbours(source, neighbours) {
+      const nIds = new Set(neighbours.map(n => n.id));
+
+      // Draw lines from source to each neighbour
+      const lines = neighbours.map(n => {
+        const nPt = allPoints.find(p => p.id === n.id);
+        if (!nPt) return null;
+        return {
+          type: 'scatter3d',
+          mode: 'lines',
+          x: [source.x, nPt.x],
+          y: [source.y, nPt.y],
+          z: [source.z, nPt.z],
+          line: {
+            color: `rgba(244,114,182,${Math.max(0.2, n.similarity)})`,
+            width: 3,
+          },
+          showlegend: false,
+          hoverinfo: 'skip',
+        };
+      }).filter(Boolean);
+
+      // Source highlight
+      const highlight = {
+        type: 'scatter3d',
+        mode: 'markers',
+        name: '★ Selected',
+        x: [source.x],
+        y: [source.y],
+        z: [source.z],
+        marker: {
+          size: 10,
+          color: '#f472b6',
+          symbol: 'diamond',
+          line: { width: 2, color: '#fff' },
+        },
+        showlegend: false,
+        hoverinfo: 'skip',
+      };
+
+      // Re-render with existing traces + highlight + lines
+      const plotEl = document.getElementById('plot');
+      const existingTraces = plotEl.data.filter(t => t.showlegend !== false || t.name);
+      const baseTraces = existingTraces.filter(t => !t.name?.startsWith('★'));
+      Plotly.newPlot('plot', [...baseTraces, highlight, ...lines], getLayout(), {
+        responsive: true,
+        displayModeBar: true,
+        displaylogo: false,
+      });
+
+      // Re-attach click handler
+      plotEl.on('plotly_click', async (data) => {
+        const pt = data.points[0];
+        if (!pt.customdata) return;
+        const embId = pt.customdata;
+        const original = allPoints.find(p => p.id === embId);
+        if (!original) return;
+        showDetail(original);
+        const simData = await loadSimilarity(embId);
+        if (simData) {
+          showNeighbours(simData.neighbours);
+          highlightNeighbours(original, simData.neighbours);
+        }
+      });
+    }
+
+    function scrollToPoint(id) {
+      const pt = allPoints.find(p => p.id === id);
+      if (!pt) return;
+      showDetail(pt);
+      // TODO: camera fly-to animation
+    }
+
+    // ── Search / Filter ───────────────────────────
+    function filterPoints(query) {
+      if (!query.trim()) {
+        renderPlot(allPoints);
+        return;
+      }
+      const q = query.toLowerCase();
+      const filtered = allPoints.filter(p =>
+        (p.snippet || '').toLowerCase().includes(q) ||
+        (p.collection || '').toLowerCase().includes(q)
+      );
+      renderPlot(filtered);
+    }
+
+    // ── Loading ───────────────────────────────────
+    function showLoading(msg) {
+      const el = document.getElementById('loading');
+      document.getElementById('loading-text').textContent = msg || 'Loading…';
+      el.classList.remove('hidden');
+    }
+    function hideLoading() {
+      document.getElementById('loading').classList.add('hidden');
+    }
+  </script>
+</body>
+</html>

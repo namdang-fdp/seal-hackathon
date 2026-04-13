@@ -1,0 +1,13 @@
+## **ĐIỀU KHOẢN KHI SỬ DỤNG DỊCH VỤ**
+
+[Công ty] nghiêm cấm mọi hành vi giả mạo, truy cập trái phép, can thiệp vào hệ thống hoặc khai thác dữ liệu khách hàng dưới bất kỳ hình thức nào. Trường hợp phát hiện vi phạm, [Công ty] có quyền **khóa tài khoản ngay lập tức** và áp dụng các biện pháp xử lý cần thiết theo **quy định của pháp luật [Nước xuất]**, tùy theo mức độ nghiêm trọng của hành vi vi phạm.
+
+[Công ty] luôn đặt **bảo mật thông tin khách hàng** lên hàng đầu. Toàn bộ dữ liệu cá nhân và thông tin giao dịch được bảo mật và mã hóa trong quá trình xử lý nhằm hạn chế tối đa nguy cơ truy cập trái phép. [Công ty] **không chia sẻ thông tin khách hàng cho bên thứ ba**, ngoại trừ các trường hợp cần thiết để thực hiện dịch vụ vận chuyển từ [Nước xuất] sang [Nước nhập] hoặc theo yêu cầu của cơ quan có thẩm quyền theo quy định pháp luật.
+
+Khách hàng có trách nhiệm cung cấp **đầy đủ, chính xác thông tin cá nhân và thông tin người nhận tại [Nước nhập]**, bao gồm số điện thoại, địa chỉ nhận hàng và các thông tin liên quan đến lô hàng trước khi xác nhận sử dụng dịch vụ. Trường hợp khách hàng cung cấp sai thông tin, không tuân thủ quy trình hoặc gây gián đoạn hoạt động của hệ thống, [Công ty] có quyền **từ chối hoặc hủy dịch vụ** mà không cần thông báo trước, đồng thời khách hàng tự chịu các chi phí phát sinh (nếu có).
+
+[Công ty] cam kết **minh bạch về giá và chi phí dịch vụ**. Mọi khoản phí liên quan đến việc chuyển hàng từ [Nước xuất] sang [Nước nhập] được thông báo rõ ràng và xác nhận với khách hàng trước khi tiến hành. Sau khi khách hàng hoàn tất thanh toán và xác nhận dịch vụ, [Công ty] không tự ý thu thêm phụ phí ngoài các khoản đã thỏa thuận, trừ trường hợp phát sinh chi phí bắt buộc theo quy định của cơ quan chức năng hoặc đơn vị vận chuyển và đã được thông báo cho khách hàng.
+
+Do [Công ty] **chỉ cung cấp dịch vụ vận chuyển hàng hóa quốc tế**, không trực tiếp bán hoặc kiểm soát chất lượng hàng hóa, khách hàng có trách nhiệm kiểm tra kỹ tính hợp pháp, chủng loại và điều kiện vận chuyển của hàng hóa trước khi gửi. [Công ty] **có quyền từ chối tiếp nhận hoặc thực hiện dịch vụ** đối với các lô hàng thuộc danh mục cấm, hạn chế xuất – nhập khẩu, vi phạm pháp luật hoặc có dấu hiệu gian lận. Trong
+
+trường hợp giao dịch không thể tiếp tục do yếu tố ngoài khả năng kiểm soát (thay đổi chính sách, yêu cầu kiểm tra chuyên ngành, sự cố từ đối tác vận chuyển…), [Công ty] sẽ thông báo để khách hàng phối hợp điều chỉnh hoặc chấm dứt dịch vụ theo quy định.

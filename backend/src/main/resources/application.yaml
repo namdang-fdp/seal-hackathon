@@ -1,0 +1,32 @@
+spring:
+  application:
+    name: seal
+  servlet:
+    multipart:
+      max-file-size: 50MB 
+      max-request-size: 50MB
+
+# Thông số kết nối AWS (Giấu kín, đọc qua biến môi trường)
+aws:
+  s3:
+    bucket-name: ${AWS_S3_BUCKET_NAME:ragnarok-bucket}
+    region: ${AWS_REGION:ap-southeast-1}
+  credentials:
+    access-key: ${AWS_ACCESS_KEY_ID}
+    secret-key: ${AWS_SECRET_ACCESS_KEY}
+
+# Thông số gọi sang con Python AI
+ai-service:
+  base-url: ${AI_SERVICE_URL:http://localhost:8000}
+
+logging:
+  level:
+    com.ragnarok.seal: DEBUG
+    software.amazon.awssdk: INFO
+
+# Swagger / OpenAPI
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+  api-docs:
+    path: /v3/api-docs

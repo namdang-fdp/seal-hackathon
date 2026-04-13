@@ -1,0 +1,365 @@
+# PHIẾU HÀNG HÓA CHUYẾN BAY — CARGO MANIFEST
+
+
+<table>
+  <thead>
+    <tr>
+        <th>Mã chuyến bay:</th>
+        <th>FL0334</th>
+        <th>Số hiệu:</th>
+        <th>CX494</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Hãng hàng không:</td>
+        <td>CX</td>
+        <td>Tuyến bay:</td>
+        <td>HN - Guangzhou</td>
+    </tr>
+    <tr>
+        <td>Ngày khởi hành:</td>
+        <td>2025-05-12 23:25</td>
+        <td>Ngày đến:</td>
+        <td>2025-05-13 02:25</td>
+    </tr>
+    <tr>
+        <td>Trạng thái:</td>
+        <td>ARRIVED</td>
+        <td>Chi phí vận hành:</td>
+        <td>160,000,000 VND</td>
+    </tr>
+    <tr>
+        <td>Tổng KL hàng:</td>
+        <td>287.1 kg</td>
+        <td>Số kiện:</td>
+        <td>465</td>
+    </tr>
+    <tr>
+        <td>Ngày thông quan:</td>
+        <td>2025-05-16</td>
+        <td>Tình trạng TQ:</td>
+        <td>PENDING</td>
+    </tr>
+  </tbody>
+</table>
+
+## DANH SÁCH KIỆN HÀNG (22 kiện)
+
+
+<table>
+    <thead>
+    <tr>
+        <th>STT</th>
+        <th>Mã Tracking</th>
+        <th>Mã Đơn</th>
+        <th>Loại Hàng</th>
+        <th>TT Kiện</th>
+        <th>KL Thực (kg)</th>
+        <th>KL TV (kg)</th>
+        <th>KL Cước (kg)</th>
+        <th>Dễ Vỡ</th>
+        <th>Khai Báo HC</th>
+    </tr>
+    </thead>
+    <tr>
+        <td>1</td>
+        <td>TRK0001300</td>
+        <td>ORD0000877</td>
+        <td>Linh kiện máy móc</td>
+        <td>delivered</td>
+        <td>14.11</td>
+        <td>1.06</td>
+        <td>14.11</td>
+        <td>KHÔNG</td>
+        <td>Hàng thương mạ</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>TRK0001662</td>
+        <td>ORD0001108</td>
+        <td>Thời trang - Quần</td>
+        <td>delivered</td>
+        <td>10.01</td>
+        <td>4.09</td>
+        <td>10.01</td>
+        <td>KHÔNG</td>
+        <td>Hàng mẫu</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>TRK0001663</td>
+        <td>ORD0001108</td>
+        <td>Thời trang - Quần</td>
+        <td>delivered</td>
+        <td>11.67</td>
+        <td>3.01</td>
+        <td>11.67</td>
+        <td>CÓ</td>
+        <td>Hàng mẫu</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>TRK0003071</td>
+        <td>ORD0002033</td>
+        <td>Đồ chơi - Trẻ em</td>
+        <td>warehoused</td>
+        <td>9.87</td>
+        <td>5.05</td>
+        <td>9.87</td>
+        <td>KHÔNG</td>
+        <td>Hàng thương mạ</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>TRK0003072</td>
+        <td>ORD0002033</td>
+        <td>Đồ chơi - Trẻ em</td>
+        <td>warehoused</td>
+        <td>8.69</td>
+        <td>1.89</td>
+        <td>8.69</td>
+        <td>KHÔNG</td>
+        <td>Hàng thương mạ</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>TRK0005049</td>
+        <td>ORD0003348</td>
+        <td>Thực phẩm - Đặc sả</td>
+        <td>delivered</td>
+        <td>7.34</td>
+        <td>8.04</td>
+        <td>8.04</td>
+        <td>KHÔNG</td>
+        <td>Hàng thương mạ</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>TRK0006962</td>
+        <td>ORD0004615</td>
+        <td>Điện tử - Phụ kiện</td>
+        <td>delivered</td>
+        <td>20.01</td>
+        <td>1.09</td>
+        <td>20.01</td>
+        <td>KHÔNG</td>
+        <td>Đồ dùng cá nhâ</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>TRK0007438</td>
+        <td>ORD0004924</td>
+        <td>Sách - Văn phòng p</td>
+        <td>delivered</td>
+        <td>16.63</td>
+        <td>2.27</td>
+        <td>16.63</td>
+        <td>CÓ</td>
+        <td>Đồ dùng cá nhâ</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>TRK0007643</td>
+        <td>ORD0005068</td>
+        <td>Thực phẩm - Đặc sả</td>
+        <td>delivered</td>
+        <td>0.78</td>
+        <td>11.41</td>
+        <td>11.41</td>
+        <td>CÓ</td>
+        <td>Quà tặng</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>TRK0007644</td>
+        <td>ORD0005068</td>
+        <td>Thực phẩm - Đặc sả</td>
+        <td>delivered</td>
+        <td>0.74</td>
+        <td>2.58</td>
+        <td>2.58</td>
+        <td>KHÔNG</td>
+        <td>Hàng thương mạ</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>TRK0007793</td>
+        <td>ORD0005176</td>
+        <td>Thời trang - Giày</td>
+        <td>delivered</td>
+        <td>0.13</td>
+        <td>0.44</td>
+        <td>0.44</td>
+        <td>KHÔNG</td>
+        <td>Đồ dùng cá nhâ</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>TRK0008545</td>
+        <td>ORD0005680</td>
+        <td>Thời trang - Quần</td>
+        <td>delivered</td>
+        <td>9.18</td>
+        <td>1.9</td>
+        <td>9.18</td>
+        <td>KHÔNG</td>
+        <td>Quà tặng</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>TRK0008620</td>
+        <td>ORD0005732</td>
+        <td>Mỹ phẩm - Skincare</td>
+        <td>delivered</td>
+        <td>4.91</td>
+        <td>6.92</td>
+        <td>6.92</td>
+        <td>KHÔNG</td>
+        <td>Hàng thương mạ</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>TRK0008621</td>
+        <td>ORD0005732</td>
+        <td>Mỹ phẩm - Skincare</td>
+        <td>delivered</td>
+        <td>5.38</td>
+        <td>1.95</td>
+        <td>5.38</td>
+        <td>KHÔNG</td>
+        <td>Đồ dùng cá nhâ</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>TRK0008756</td>
+        <td>ORD0005823</td>
+        <td>Thực phẩm - Đặc sả</td>
+        <td>delivered</td>
+        <td>1.82</td>
+        <td>0.7</td>
+        <td>1.82</td>
+        <td>KHÔNG</td>
+        <td>Đồ dùng cá nhâ</td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>TRK0008757</td>
+        <td>ORD0005823</td>
+        <td>Thực phẩm - Đặc sả</td>
+        <td>delivered</td>
+        <td>1.97</td>
+        <td>3.27</td>
+        <td>3.27</td>
+        <td>KHÔNG</td>
+        <td>Hàng thương mạ</td>
+    </tr>
+    <tr>
+        <td>17</td>
+        <td>TRK0009996</td>
+        <td>ORD0006648</td>
+        <td>Thời trang - Quần</td>
+        <td>delivered</td>
+        <td>6.03</td>
+        <td>0.84</td>
+        <td>6.03</td>
+        <td>KHÔNG</td>
+        <td>Đồ dùng cá nhâ</td>
+    </tr>
+    <tr>
+        <td>18</td>
+        <td>TRK0009997</td>
+        <td>ORD0006648</td>
+        <td>Thời trang - Quần</td>
+        <td>delivered</td>
+        <td>7.22</td>
+        <td>1.87</td>
+        <td>7.22</td>
+        <td>CÓ</td>
+        <td>Hàng thương mạ</td>
+    </tr>
+    <tr>
+        <td>19</td>
+        <td>TRK0010482</td>
+        <td>ORD0006979</td>
+        <td>Thời trang - Giày</td>
+        <td>delivered</td>
+        <td>1.7</td>
+        <td>2.03</td>
+        <td>2.03</td>
+        <td>KHÔNG</td>
+        <td>Đồ dùng cá nhâ</td>
+    </tr>
+    <tr>
+        <td>20</td>
+        <td>TRK0010483</td>
+        <td>ORD0006979</td>
+        <td>Thời trang - Giày</td>
+        <td>delivered</td>
+        <td>1.72</td>
+        <td>6.44</td>
+        <td>6.44</td>
+        <td>KHÔNG</td>
+        <td>Hàng thương mạ</td>
+    </tr>
+    <tr>
+        <td>21</td>
+        <td>TRK0011185</td>
+        <td>ORD0007448</td>
+        <td>Điện tử - Laptop</td>
+        <td>delivered</td>
+        <td>7.39</td>
+        <td>3.3</td>
+        <td>7.39</td>
+        <td>KHÔNG</td>
+        <td>Quà tặng</td>
+    </tr>
+    <tr>
+        <td>22</td>
+        <td>TRK0011186</td>
+        <td>ORD0007448</td>
+        <td>Điện tử - Laptop</td>
+        <td>delivered</td>
+        <td>5.6</td>
+        <td>2.4</td>
+        <td>5.6</td>
+        <td>KHÔNG</td>
+        <td>Hàng mẫu</td>
+    </tr>
+</table>
+
+
+
+<table>
+  <thead>
+    <tr>
+        <th colspan="4">TỔNG KẾT</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Tổng số kiện:</td>
+        <td>22</td>
+        <td>Tổng KL thực (kg):</td>
+        <td>152.90</td>
+    </tr>
+    <tr>
+        <td>Tổng KL thể tích (kg):</td>
+        <td>72.55</td>
+        <td>Tổng KL tính cước (kg):</td>
+        <td>174.74</td>
+    </tr>
+    <tr>
+        <td>Kiện dễ vỡ:</td>
+        <td>4</td>
+        <td>Kiện cần khai báo:</td>
+        <td>9</td>
+    </tr>
+  </tbody>
+</table>
+
+* **Xác nhận**: NV Kho Cẩm Tú Phạm
+* **Ký tên**:     
+* **Ngày**: 2025-05-12
+* **Quản lý phê duyệt**:     
+* **Đóng dấu**: [ĐÓNG DẤU CÔNG TY]

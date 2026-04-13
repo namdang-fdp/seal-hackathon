@@ -1,0 +1,4615 @@
+{
+    "nodes": [
+        {
+            "id": "TRK0003227",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Áo_khoác_Zara_trench",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "Kho_HN_Hoàng_Mai",
+            "type": "ĐỊA_ĐIỂM"
+        },
+        {
+            "id": "Bao_bì_bị_ẩm_ướt",
+            "type": "LOẠI_HƯ_HỎNG"
+        },
+        {
+            "id": "Nhẹ",
+            "type": "MỨC_ĐỘ"
+        },
+        {
+            "id": "Góc_trái_dưới",
+            "type": "VỊ_TRÍ_HƯ_HỎNG"
+        },
+        {
+            "id": "Ép_đè_nặng",
+            "type": "NGUYÊN_NHÂN"
+        },
+        {
+            "id": "Giao_hàng_kèm_biên_bản",
+            "type": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "id": "TRK0002796",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Board_game_Catan_5th_Ed",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "Kho_Đà_Nẵng",
+            "type": "ĐỊA_ĐIỂM"
+        },
+        {
+            "id": "Mép_hộp_bị_bẹp",
+            "type": "LOẠI_HƯ_HỎNG"
+        },
+        {
+            "id": "Nặng",
+            "type": "MỨC_ĐỘ"
+        },
+        {
+            "id": "Ẩm_ướt_xâm_nhập",
+            "type": "NGUYÊN_NHÂN"
+        },
+        {
+            "id": "Khiếu_nại_bảo_hiểm",
+            "type": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "id": "TRK0002874",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Kho_HCM_Tân_Bình",
+            "type": "ĐỊA_ĐIỂM"
+        },
+        {
+            "id": "Bút_máy_LAMY_Safari_EF",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "Nắp_thùng_bị_hở",
+            "type": "LOẠI_HƯ_HỎNG"
+        },
+        {
+            "id": "Trung_bình",
+            "type": "MỨC_ĐỘ"
+        },
+        {
+            "id": "TRK0005155",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Đồng_hồ_Casio_G-Shock_GA",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "Thùng_carton_bị_méo",
+            "type": "LOẠI_HƯ_HỎNG"
+        },
+        {
+            "id": "Hàng_bị_hỏng",
+            "type": "TRẠNG_THÁI"
+        },
+        {
+            "id": "Toàn_bộ_bao_bì",
+            "type": "VỊ_TRÍ_HƯ_HỎNG"
+        },
+        {
+            "id": "Rơi_thùng",
+            "type": "NGUYÊN_NHÂN"
+        },
+        {
+            "id": "TRK0011881",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Vòng_bi_SKF_6205-2RS",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "Mất_nhãn_tracking",
+            "type": "LOẠI_HƯ_HỎNG"
+        },
+        {
+            "id": "Nắp_thùng",
+            "type": "VỊ_TRÍ_HƯ_HỎNG"
+        },
+        {
+            "id": "TRK0008997",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Mật_ong_Manuka_UMF15+",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "Nhãn_sản_phẩm",
+            "type": "VỊ_TRÍ_HƯ_HỎNG"
+        },
+        {
+            "id": "TRK0005681",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Lập_biên_bản_hủy",
+            "type": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "id": "TRK0008273",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Búp_bê_Barbie_Dreamhouse",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "Thông_báo_khách_cho_ý_kiến",
+            "type": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "id": "TRK0000966",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Bộ_lọc_khí_FESTO_LFR",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "Hàng_bị_vỡ",
+            "type": "LOẠI_HƯ_HỎNG"
+        },
+        {
+            "id": "Đóng_gói_lại_ngay",
+            "type": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "id": "TRK0001247",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Nồi_chiên_Philips_HD9252",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0005442",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Chuột_Logitech_MX_Master_3",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0003764",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Giày_chạy_Brooks_Ghost_15",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0004073",
+            "type": "TRACKING"
+        },
+        {
+            "id": "ORD0002699",
+            "type": "ĐƠN_HÀNG"
+        },
+        {
+            "id": "Kem_dưỡng_La_Mer",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "Vật_liệu_đóng_gói_không_đủ",
+            "type": "LOẠI_HƯ_HỎNG"
+        },
+        {
+            "id": "Mặt_bên_phải",
+            "type": "VỊ_TRÍ_HƯ_HỎNG"
+        },
+        {
+            "id": "TRK0003057",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Phấn_nền_Fenty_Beauty",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0006483",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0001062",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Dây_curoa_Gates_5M-1500",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "Bao_bì_ẩm_ướt",
+            "type": "LOẠI_HƯ_HỎNG"
+        },
+        {
+            "id": "TRK0010049",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Cáp_USB-C_100W",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "Áp_lực_trong_vận_chuyển",
+            "type": "NGUYÊN_NHÂN"
+        },
+        {
+            "id": "TRK0007641",
+            "type": "TRACKING"
+        },
+        {
+            "id": "MacBook_Air_M3",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0003659",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Bộ_marker_Copic_36_màu",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0011039",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Cushion_Laneige_Neo",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0001320",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Dao_rọc_giấy_Stanley",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0011058",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0003835",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Bộ_nồi_inox_3_đáy_5_món",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "Bao_bì_ban_đầu_yếu",
+            "type": "NGUYÊN_NHÂN"
+        },
+        {
+            "id": "TRK0003326",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Ốp_lưng_MagSafe",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0006940",
+            "type": "TRACKING"
+        },
+        {
+            "id": "iPhone_15_Pro_Max",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0001573",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Van_điện_tử_SMC_VX2120",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0004246",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Lenovo_ThinkPad_X1",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0002206",
+            "type": "TRACKING"
+        },
+        {
+            "id": "New_Balance_990v5",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0007404",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Váy_maxi_boho",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "Kiện_bị_để_hàng_khác_đè_lên",
+            "type": "LOẠI_HƯ_HỎNG"
+        },
+        {
+            "id": "TRK0006286",
+            "type": "TRACKING"
+        },
+        {
+            "id": "ORD0004168",
+            "type": "ĐƠN_HÀNG"
+        },
+        {
+            "id": "Hạt_óc_chó_Mỹ_1kg",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0002601",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Samsung_Galaxy_S24",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0006882",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Đồng_hồ_Seiko_Presage_SPB167",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0010138",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0009558",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0007650",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0005128",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Adidas_Ultraboost_22",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0004733",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0001718",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Xe_đạp_Giant_trẻ_em_20",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0011317",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0006166",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Serum_Vitamin_C_SkinCeutical",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0000615",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Mascara_Lash_Sensational",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0000128",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Bảng_mắt_Urban_Decay_Naked",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0006473",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0003497",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0005135",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Nike_Air_Max_270",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0006860",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Máy_lọc_không_khí_Xiaomi_4_P",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0005483",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0005821",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Động_cơ_bơm_Grundfos_CM5",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0008891",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Để_hàng_khác_đè_lên",
+            "type": "LOẠI_HƯ_HỎNG"
+        },
+        {
+            "id": "TRK0001981",
+            "type": "TRACKING"
+        },
+        {
+            "id": "ORD0001315",
+            "type": "ĐƠN_HÀNG"
+        },
+        {
+            "id": "TRK0004554",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0011930",
+            "type": "TRACKING"
+        },
+        {
+            "id": "ORD0007936",
+            "type": "ĐƠN_HÀNG"
+        },
+        {
+            "id": "TRK0007224",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Vòng_tay_leather_Fossil",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0012034",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0002902",
+            "type": "TRACKING"
+        },
+        {
+            "id": "ASUS_ZenBook_14",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0009640",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Quần_jeans_Levi_501",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0005223",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Sổ_tay_Moleskine_Softcover_A",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0003252",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0003953",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Áo_sơ_mi_Oxford_trắng",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0006800",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0010462",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Vans_Old_Skool",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0009152",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0010302",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0005930",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0003077",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0008295",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Nước_hoa_hồng_SK-II",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0002185",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0005474",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Nam_động_cơ_khô_Hàn_Quốc_500",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0007837",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Trà_xanh_Matcha_Nhật_100g",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0009035",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0009750",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0010154",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0001127",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Bàn_phím_Keychron_K2",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0007473",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0002930",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Tẩy_trang_Bioderma_500ml",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0006830",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0007751",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Robot_hút_bụi_Roomba_j7+",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0011076",
+            "type": "TRACKING"
+        },
+        {
+            "id": "AirPods_Pro_2",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0006769",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Bình_Hydro_Flask_40oz",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0000472",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0011741",
+            "type": "TRACKING"
+        },
+        {
+            "id": "HP_Spectre_x360",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0003639",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0004567",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0008611",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0003212",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Son_MAC_Ruby_Woo",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0007147",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0003647",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0008237",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Dell_XPS_15",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0002842",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0003718",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0000092",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0008541",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Vivo_X100",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0001297",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0004472",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0000164",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Hàng_vẫn_nguyên_vẹn",
+            "type": "TRẠNG_THÁI"
+        },
+        {
+            "id": "TRK0005551",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0006373",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0007354",
+            "type": "TRACKING"
+        },
+        {
+            "id": "OPPO_Find_X7",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0002962",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0001398",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0002805",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0008328",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0000015",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0003557",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Gậy_leo_núi_Leki_Micro_Vario",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "Hư_hỏng_nhãn_sản_phẩm",
+            "type": "LOẠI_HƯ_HỎNG"
+        },
+        {
+            "id": "TRK0003331",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Áo_hoodie_Uniqlo_fleece",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0008424",
+            "type": "TRACKING"
+        },
+        {
+            "id": "LEGO_Technic_42154_McLaren",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0001073",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0008843",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Yến_sào_sơ_chế_100g",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0001406",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0003649",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Máy_pha_cà_phê_Delonghi",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0003445",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0000639",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0009680",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0009607",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0001096",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0001749",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0002240",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Kem_chống_nắng_Anessa_SPF50",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0006201",
+            "type": "TRACKING"
+        },
+        {
+            "id": "Dây_chuyền_vàng_14K_40cm",
+            "type": "SẢN_PHẨM"
+        },
+        {
+            "id": "TRK0009526",
+            "type": "TRACKING"
+        },
+        {
+            "id": "TRK0010273",
+            "type": "TRACKING"
+        }
+    ],
+    "edges": [
+        {
+            "source": "TRK0003227",
+            "target": "Áo_khoác_Zara_trench",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0003227",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0003227",
+            "target": "Bao_bì_bị_ẩm_ướt",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Bao_bì_bị_ẩm_ướt",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Bao_bì_bị_ẩm_ướt",
+            "target": "Góc_trái_dưới",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "Bao_bì_bị_ẩm_ướt",
+            "target": "Ép_đè_nặng",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0003227",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0002796",
+            "target": "Board_game_Catan_5th_Ed",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0002796",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0002796",
+            "target": "Mép_hộp_bị_bẹp",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mép_hộp_bị_bẹp",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Mép_hộp_bị_bẹp",
+            "target": "Ẩm_ướt_xâm_nhập",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0002796",
+            "target": "Khiếu_nại_bảo_hiểm",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0002874",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0002874",
+            "target": "Bút_máy_LAMY_Safari_EF",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0002874",
+            "target": "Nắp_thùng_bị_hở",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Nắp_thùng_bị_hở",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0002874",
+            "target": "Khiếu_nại_bảo_hiểm",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0005155",
+            "target": "Đồng_hồ_Casio_G-Shock_GA",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0005155",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0005155",
+            "target": "Thùng_carton_bị_méo",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Nặng",
+            "target": "Hàng_bị_hỏng",
+            "relation": "GÂY_RA_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Toàn_bộ_bao_bì",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Rơi_thùng",
+            "relation": "DO_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0005155",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0011881",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0011881",
+            "target": "Vòng_bi_SKF_6205-2RS",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0011881",
+            "target": "Mất_nhãn_tracking",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Nắp_thùng",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Ẩm_ướt_xâm_nhập",
+            "relation": "DO_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0011881",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0008997",
+            "target": "Mật_ong_Manuka_UMF15+",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0008997",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0008997",
+            "target": "Bao_bì_bị_ẩm_ướt",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Bao_bì_bị_ẩm_ướt",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Bao_bì_bị_ẩm_ướt",
+            "target": "Nhãn_sản_phẩm",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "Bao_bì_bị_ẩm_ướt",
+            "target": "Rơi_thùng",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0008997",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0005681",
+            "target": "Đồng_hồ_Casio_G-Shock_GA",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0005681",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0005681",
+            "target": "Mất_nhãn_tracking",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0005681",
+            "target": "Lập_biên_bản_hủy",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0008273",
+            "target": "Búp_bê_Barbie_Dreamhouse",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0008273",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0008273",
+            "target": "Thùng_carton_bị_méo",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Toàn_bộ_bao_bì",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Ẩm_ướt_xâm_nhập",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0008273",
+            "target": "Thông_báo_khách_cho_ý_kiến",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0000966",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0000966",
+            "target": "Bộ_lọc_khí_FESTO_LFR",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0000966",
+            "target": "Hàng_bị_vỡ",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0000966",
+            "target": "Đóng_gói_lại_ngay",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0001247",
+            "target": "Nồi_chiên_Philips_HD9252",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0001247",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0001247",
+            "target": "Hàng_bị_vỡ",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0001247",
+            "target": "Thông_báo_khách_cho_ý_kiến",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0005442",
+            "target": "Chuột_Logitech_MX_Master_3",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0005442",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0005442",
+            "target": "Nắp_thùng_bị_hở",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Nắp_thùng_bị_hở",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Nắp_thùng_bị_hở",
+            "target": "Rơi_thùng",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0005442",
+            "target": "Thông_báo_khách_cho_ý_kiến",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0003764",
+            "target": "Giày_chạy_Brooks_Ghost_15",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0003764",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0003764",
+            "target": "Thùng_carton_bị_méo",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Nhãn_sản_phẩm",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Rơi_thùng",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0003764",
+            "target": "Khiếu_nại_bảo_hiểm",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0004073",
+            "target": "ORD0002699",
+            "relation": "THUỘC_ĐƠN_HÀNG"
+        },
+        {
+            "source": "TRK0004073",
+            "target": "Kem_dưỡng_La_Mer",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0004073",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0004073",
+            "target": "Vật_liệu_đóng_gói_không_đủ",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "TRK0004073",
+            "target": "Hàng_bị_hỏng",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Vật_liệu_đóng_gói_không_đủ",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Vật_liệu_đóng_gói_không_đủ",
+            "target": "Mặt_bên_phải",
+            "relation": "Ở_VỊ_TRÍ"
+        },
+        {
+            "source": "Vật_liệu_đóng_gói_không_đủ",
+            "target": "Ẩm_ướt_xâm_nhập",
+            "relation": "DO_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0004073",
+            "target": "Khiếu_nại_bảo_hiểm",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0003057",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0003057",
+            "target": "Phấn_nền_Fenty_Beauty",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0003057",
+            "target": "Mất_nhãn_tracking",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0003057",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0006483",
+            "target": "Phấn_nền_Fenty_Beauty",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0006483",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0006483",
+            "target": "Nắp_thùng_bị_hở",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Nắp_thùng_bị_hở",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0006483",
+            "target": "Thông_báo_khách_cho_ý_kiến",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0001062",
+            "target": "Dây_curoa_Gates_5M-1500",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0001062",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0001062",
+            "target": "Bao_bì_ẩm_ướt",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Bao_bì_ẩm_ướt",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0001062",
+            "target": "Khiếu_nại_bảo_hiểm",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0010049",
+            "target": "Cáp_USB-C_100W",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0010049",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0010049",
+            "target": "Vật_liệu_đóng_gói_không_đủ",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Vật_liệu_đóng_gói_không_đủ",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Vật_liệu_đóng_gói_không_đủ",
+            "target": "Góc_trái_dưới",
+            "relation": "Ở_VỊ_TRÍ"
+        },
+        {
+            "source": "Vật_liệu_đóng_gói_không_đủ",
+            "target": "Áp_lực_trong_vận_chuyển",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0010049",
+            "target": "Thông_báo_khách_cho_ý_kiến",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0007641",
+            "target": "MacBook_Air_M3",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0007641",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0007641",
+            "target": "Thùng_carton_bị_méo",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Nhãn_sản_phẩm",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Rơi_thùng",
+            "relation": "DO_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0007641",
+            "target": "Lập_biên_bản_hủy",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0003659",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0003659",
+            "target": "Bộ_marker_Copic_36_màu",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0003659",
+            "target": "Bao_bì_ẩm_ướt",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Bao_bì_ẩm_ướt",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0003659",
+            "target": "Lập_biên_bản_hủy",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0011039",
+            "target": "Cushion_Laneige_Neo",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0011039",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0011039",
+            "target": "Mép_hộp_bị_bẹp",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mép_hộp_bị_bẹp",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Mép_hộp_bị_bẹp",
+            "target": "Rơi_thùng",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0011039",
+            "target": "Đóng_gói_lại_ngay",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0001320",
+            "target": "Dao_rọc_giấy_Stanley",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0001320",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0001320",
+            "target": "Mép_hộp_bị_bẹp",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mép_hộp_bị_bẹp",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Mép_hộp_bị_bẹp",
+            "target": "Rơi_thùng",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0001320",
+            "target": "Khiếu_nại_bảo_hiểm",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0011058",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0011058",
+            "target": "Cáp_USB-C_100W",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0011058",
+            "target": "Mất_nhãn_tracking",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0011058",
+            "target": "Đóng_gói_lại_ngay",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0003835",
+            "target": "Bộ_nồi_inox_3_đáy_5_món",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0003835",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0003835",
+            "target": "Mép_hộp_bị_bẹp",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mép_hộp_bị_bẹp",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Mép_hộp_bị_bẹp",
+            "target": "Bao_bì_ban_đầu_yếu",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0003835",
+            "target": "Đóng_gói_lại_ngay",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0003326",
+            "target": "Ốp_lưng_MagSafe",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0003326",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0003326",
+            "target": "Mép_hộp_bị_bẹp",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mép_hộp_bị_bẹp",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Mép_hộp_bị_bẹp",
+            "target": "Nắp_thùng",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "TRK0003326",
+            "target": "Thông_báo_khách_cho_ý_kiến",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0003326",
+            "target": "Hàng_bị_hỏng",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "TRK0006940",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0006940",
+            "target": "iPhone_15_Pro_Max",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0006940",
+            "target": "Vật_liệu_đóng_gói_không_đủ",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Vật_liệu_đóng_gói_không_đủ",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0006940",
+            "target": "Nắp_thùng",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "TRK0006940",
+            "target": "Ép_đè_nặng",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0006940",
+            "target": "Thông_báo_khách_cho_ý_kiến",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0001573",
+            "target": "Van_điện_tử_SMC_VX2120",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0001573",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0001573",
+            "target": "Mất_nhãn_tracking",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0001573",
+            "target": "Khiếu_nại_bảo_hiểm",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0004246",
+            "target": "Lenovo_ThinkPad_X1",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0004246",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0004246",
+            "target": "Nắp_thùng_bị_hở",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Nắp_thùng_bị_hở",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Nắp_thùng_bị_hở",
+            "target": "Mặt_bên_phải",
+            "relation": "Ở_VỊ_TRÍ"
+        },
+        {
+            "source": "Nắp_thùng_bị_hở",
+            "target": "Rơi_thùng",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0004246",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0002206",
+            "target": "New_Balance_990v5",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0002206",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0002206",
+            "target": "Bao_bì_ẩm_ướt",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Bao_bì_ẩm_ướt",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Bao_bì_ẩm_ướt",
+            "target": "Nắp_thùng",
+            "relation": "Ở_VỊ_TRÍ"
+        },
+        {
+            "source": "Bao_bì_ẩm_ướt",
+            "target": "Bao_bì_ban_đầu_yếu",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0002206",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0007404",
+            "target": "Váy_maxi_boho",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0007404",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0007404",
+            "target": "Kiện_bị_để_hàng_khác_đè_lên",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Kiện_bị_để_hàng_khác_đè_lên",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Kiện_bị_để_hàng_khác_đè_lên",
+            "target": "Bao_bì_ban_đầu_yếu",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0007404",
+            "target": "Thông_báo_khách_cho_ý_kiến",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0006286",
+            "target": "ORD0004168",
+            "relation": "THUỘC_ĐƠN_HÀNG"
+        },
+        {
+            "source": "TRK0006286",
+            "target": "Hạt_óc_chó_Mỹ_1kg",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0006286",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0006286",
+            "target": "Mất_nhãn_tracking",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Nhãn_sản_phẩm",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Ẩm_ướt_xâm_nhập",
+            "relation": "DO_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0006286",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0002601",
+            "target": "Samsung_Galaxy_S24",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0002601",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0002601",
+            "target": "Mất_nhãn_tracking",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Góc_trái_dưới",
+            "relation": "Ở_VỊ_TRÍ"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Bao_bì_ban_đầu_yếu",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0002601",
+            "target": "Lập_biên_bản_hủy",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0006882",
+            "target": "Đồng_hồ_Seiko_Presage_SPB167",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0006882",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0006882",
+            "target": "Thùng_carton_bị_méo",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0006882",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0010138",
+            "target": "Dao_rọc_giấy_Stanley",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0010138",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0010138",
+            "target": "Thùng_carton_bị_méo",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Bao_bì_ban_đầu_yếu",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0010138",
+            "target": "Đóng_gói_lại_ngay",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0009558",
+            "target": "Dao_rọc_giấy_Stanley",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0009558",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0009558",
+            "target": "Vật_liệu_đóng_gói_không_đủ",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Vật_liệu_đóng_gói_không_đủ",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Vật_liệu_đóng_gói_không_đủ",
+            "target": "Nắp_thùng",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "Vật_liệu_đóng_gói_không_đủ",
+            "target": "Áp_lực_trong_vận_chuyển",
+            "relation": "DO_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0009558",
+            "target": "Đóng_gói_lại_ngay",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0007650",
+            "target": "Bút_máy_LAMY_Safari_EF",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0007650",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0007650",
+            "target": "Bao_bì_bị_ẩm_ướt",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Bao_bì_bị_ẩm_ướt",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Bao_bì_bị_ẩm_ướt",
+            "target": "Nhãn_sản_phẩm",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "TRK0007650",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0005128",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0005128",
+            "target": "Adidas_Ultraboost_22",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0005128",
+            "target": "Nắp_thùng_bị_hở",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Nắp_thùng_bị_hở",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0005128",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0004733",
+            "target": "Đồng_hồ_Casio_G-Shock_GA",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0004733",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0004733",
+            "target": "Vật_liệu_đóng_gói_không_đủ",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Vật_liệu_đóng_gói_không_đủ",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Vật_liệu_đóng_gói_không_đủ",
+            "target": "Toàn_bộ_bao_bì",
+            "relation": "Ở_VỊ_TRÍ"
+        },
+        {
+            "source": "TRK0004733",
+            "target": "Lập_biên_bản_hủy",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0001718",
+            "target": "Xe_đạp_Giant_trẻ_em_20",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0001718",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0001718",
+            "target": "Hàng_bị_vỡ",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Toàn_bộ_bao_bì",
+            "relation": "Ở_VỊ_TRÍ"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Bao_bì_ban_đầu_yếu",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0001718",
+            "target": "Đóng_gói_lại_ngay",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0011317",
+            "target": "Vòng_bi_SKF_6205-2RS",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0011317",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0011317",
+            "target": "Thùng_carton_bị_méo",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0011317",
+            "target": "Lập_biên_bản_hủy",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0006166",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0006166",
+            "target": "Serum_Vitamin_C_SkinCeutical",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0006166",
+            "target": "Thùng_carton_bị_méo",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Nắp_thùng",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Bao_bì_ban_đầu_yếu",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0006166",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0000615",
+            "target": "Mascara_Lash_Sensational",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0000615",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0000615",
+            "target": "Thùng_carton_bị_méo",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Ẩm_ướt_xâm_nhập",
+            "relation": "GAY_RA_BOI"
+        },
+        {
+            "source": "TRK0000615",
+            "target": "Lập_biên_bản_hủy",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0000128",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0000128",
+            "target": "Bảng_mắt_Urban_Decay_Naked",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0000128",
+            "target": "Vật_liệu_đóng_gói_không_đủ",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Vật_liệu_đóng_gói_không_đủ",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0000128",
+            "target": "Thông_báo_khách_cho_ý_kiến",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0006473",
+            "target": "Bộ_nồi_inox_3_đáy_5_món",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0006473",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0006473",
+            "target": "Thùng_carton_bị_méo",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0006473",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0003497",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0003497",
+            "target": "Kem_dưỡng_La_Mer",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0003497",
+            "target": "Bao_bì_ẩm_ướt",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Bao_bì_ẩm_ướt",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0003497",
+            "target": "Thông_báo_khách_cho_ý_kiến",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0005135",
+            "target": "Nike_Air_Max_270",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0005135",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0005135",
+            "target": "Mất_nhãn_tracking",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Nhãn_sản_phẩm",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "TRK0005135",
+            "target": "Lập_biên_bản_hủy",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0006860",
+            "target": "Máy_lọc_không_khí_Xiaomi_4_P",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0006860",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0006860",
+            "target": "Vật_liệu_đóng_gói_không_đủ",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Vật_liệu_đóng_gói_không_đủ",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Vật_liệu_đóng_gói_không_đủ",
+            "target": "Nắp_thùng",
+            "relation": "Ở_VỊ_TRÍ"
+        },
+        {
+            "source": "TRK0006860",
+            "target": "Thông_báo_khách_cho_ý_kiến",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0005483",
+            "target": "New_Balance_990v5",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0005483",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0005483",
+            "target": "Hàng_bị_vỡ",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0005483",
+            "target": "Bao_bì_ban_đầu_yếu",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0005483",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0005821",
+            "target": "Động_cơ_bơm_Grundfos_CM5",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0005821",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0005821",
+            "target": "Kiện_bị_để_hàng_khác_đè_lên",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Kiện_bị_để_hàng_khác_đè_lên",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Kiện_bị_để_hàng_khác_đè_lên",
+            "target": "Nhãn_sản_phẩm",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "TRK0005821",
+            "target": "Bao_bì_ban_đầu_yếu",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0005821",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0008891",
+            "target": "Van_điện_tử_SMC_VX2120",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0008891",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0008891",
+            "target": "Để_hàng_khác_đè_lên",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Để_hàng_khác_đè_lên",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Để_hàng_khác_đè_lên",
+            "target": "Ẩm_ướt_xâm_nhập",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0008891",
+            "target": "Khiếu_nại_bảo_hiểm",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0001981",
+            "target": "ORD0001315",
+            "relation": "THUỘC_ĐƠN_HÀNG"
+        },
+        {
+            "source": "TRK0001981",
+            "target": "Bộ_marker_Copic_36_màu",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0001981",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0001981",
+            "target": "Thùng_carton_bị_méo",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Nhãn_sản_phẩm",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "TRK0001981",
+            "target": "Đóng_gói_lại_ngay",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0004554",
+            "target": "Nồi_chiên_Philips_HD9252",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0004554",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0004554",
+            "target": "Kiện_bị_để_hàng_khác_đè_lên",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Kiện_bị_để_hàng_khác_đè_lên",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Kiện_bị_để_hàng_khác_đè_lên",
+            "target": "Nhãn_sản_phẩm",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "TRK0004554",
+            "target": "Thông_báo_khách_cho_ý_kiến",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0011930",
+            "target": "ORD0007936",
+            "relation": "THUỘC_ĐƠN_HÀNG"
+        },
+        {
+            "source": "TRK0011930",
+            "target": "Samsung_Galaxy_S24",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0011930",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0011930",
+            "target": "Hàng_bị_vỡ",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Mặt_bên_phải",
+            "relation": "Ở_VỊ_TRÍ"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Rơi_thùng",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0011930",
+            "target": "Khiếu_nại_bảo_hiểm",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0007224",
+            "target": "Vòng_tay_leather_Fossil",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0007224",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0007224",
+            "target": "Bao_bì_bị_ẩm_ướt",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Bao_bì_bị_ẩm_ướt",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0007224",
+            "target": "Thông_báo_khách_cho_ý_kiến",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0012034",
+            "target": "Bộ_marker_Copic_36_màu",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0012034",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0012034",
+            "target": "Mép_hộp_bị_bẹp",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mép_hộp_bị_bẹp",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Mép_hộp_bị_bẹp",
+            "target": "Nắp_thùng",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "Nặng",
+            "target": "Hàng_bị_hỏng",
+            "relation": "GAY_RA_TRANG_THAI"
+        },
+        {
+            "source": "TRK0012034",
+            "target": "Khiếu_nại_bảo_hiểm",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0002902",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0002902",
+            "target": "ASUS_ZenBook_14",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0002902",
+            "target": "Nắp_thùng_bị_hở",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Nắp_thùng_bị_hở",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Nắp_thùng_bị_hở",
+            "target": "Ẩm_ướt_xâm_nhập",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0002902",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0009640",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0009640",
+            "target": "Quần_jeans_Levi_501",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0009640",
+            "target": "Mép_hộp_bị_bẹp",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mép_hộp_bị_bẹp",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0009640",
+            "target": "Lập_biên_bản_hủy",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0005223",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0005223",
+            "target": "Sổ_tay_Moleskine_Softcover_A",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0005223",
+            "target": "Vật_liệu_đóng_gói_không_đủ",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Vật_liệu_đóng_gói_không_đủ",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0005223",
+            "target": "Nhãn_sản_phẩm",
+            "relation": "XAC_DINH_VI_TRI"
+        },
+        {
+            "source": "TRK0005223",
+            "target": "Bao_bì_ban_đầu_yếu",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0005223",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0003252",
+            "target": "Bảng_mắt_Urban_Decay_Naked",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0003252",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0003252",
+            "target": "Mất_nhãn_tracking",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Nhãn_sản_phẩm",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "TRK0003252",
+            "target": "Thông_báo_khách_cho_ý_kiến",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0003953",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0003953",
+            "target": "Áo_sơ_mi_Oxford_trắng",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0003953",
+            "target": "Bao_bì_ẩm_ướt",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Bao_bì_ẩm_ướt",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0003953",
+            "target": "Khiếu_nại_bảo_hiểm",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0006800",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0006800",
+            "target": "Chuột_Logitech_MX_Master_3",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0006800",
+            "target": "Hàng_bị_vỡ",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Toàn_bộ_bao_bì",
+            "relation": "Ở_VỊ_TRÍ"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Ép_đè_nặng",
+            "relation": "DO_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0006800",
+            "target": "Đóng_gói_lại_ngay",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0010462",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0010462",
+            "target": "Vans_Old_Skool",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0010462",
+            "target": "Mép_hộp_bị_bẹp",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mép_hộp_bị_bẹp",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0010462",
+            "target": "Lập_biên_bản_hủy",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0009152",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0009152",
+            "target": "Dây_curoa_Gates_5M-1500",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0009152",
+            "target": "Kiện_bị_để_hàng_khác_đè_lên",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Kiện_bị_để_hàng_khác_đè_lên",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Kiện_bị_để_hàng_khác_đè_lên",
+            "target": "Nắp_thùng",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "Kiện_bị_để_hàng_khác_đè_lên",
+            "target": "Bao_bì_ban_đầu_yếu",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0009152",
+            "target": "Khiếu_nại_bảo_hiểm",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0010302",
+            "target": "Ốp_lưng_MagSafe",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0010302",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0010302",
+            "target": "Thùng_carton_bị_méo",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Nắp_thùng",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Rơi_thùng",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0010302",
+            "target": "Lập_biên_bản_hủy",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0005930",
+            "target": "Giày_chạy_Brooks_Ghost_15",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0005930",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0005930",
+            "target": "Bao_bì_ẩm_ướt",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Bao_bì_ẩm_ướt",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0005930",
+            "target": "Thông_báo_khách_cho_ý_kiến",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0003077",
+            "target": "Cushion_Laneige_Neo",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0003077",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0003077",
+            "target": "Nắp_thùng_bị_hở",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Nắp_thùng_bị_hở",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0003077",
+            "target": "Lập_biên_bản_hủy",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0008295",
+            "target": "Nước_hoa_hồng_SK-II",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0008295",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0008295",
+            "target": "Kiện_bị_để_hàng_khác_đè_lên",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Kiện_bị_để_hàng_khác_đè_lên",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Kiện_bị_để_hàng_khác_đè_lên",
+            "target": "Ẩm_ướt_xâm_nhập",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0008295",
+            "target": "Đóng_gói_lại_ngay",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0002185",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0002185",
+            "target": "Nước_hoa_hồng_SK-II",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0002185",
+            "target": "Mất_nhãn_tracking",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0002185",
+            "target": "Thông_báo_khách_cho_ý_kiến",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0005474",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0005474",
+            "target": "Nam_động_cơ_khô_Hàn_Quốc_500",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0005474",
+            "target": "Hàng_bị_vỡ",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Nhãn_sản_phẩm",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Bao_bì_ban_đầu_yếu",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0005474",
+            "target": "Thông_báo_khách_cho_ý_kiến",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0007837",
+            "target": "Trà_xanh_Matcha_Nhật_100g",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0007837",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0007837",
+            "target": "Mất_nhãn_tracking",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Nắp_thùng",
+            "relation": "Ở_VỊ_TRÍ"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Rơi_thùng",
+            "relation": "DO_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0007837",
+            "target": "Thông_báo_khách_cho_ý_kiến",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0009035",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0009035",
+            "target": "Động_cơ_bơm_Grundfos_CM5",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0009035",
+            "target": "Kiện_bị_để_hàng_khác_đè_lên",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Kiện_bị_để_hàng_khác_đè_lên",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Kiện_bị_để_hàng_khác_đè_lên",
+            "target": "Mặt_bên_phải",
+            "relation": "Ở_VỊ_TRÍ"
+        },
+        {
+            "source": "Kiện_bị_để_hàng_khác_đè_lên",
+            "target": "Bao_bì_ban_đầu_yếu",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0009035",
+            "target": "Đóng_gói_lại_ngay",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0009750",
+            "target": "Áo_khoác_Zara_trench",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0009750",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0009750",
+            "target": "Thùng_carton_bị_méo",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Nắp_thùng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Ẩm_ướt_xâm_nhập",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0009750",
+            "target": "Lập_biên_bản_hủy",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0010154",
+            "target": "Vòng_tay_leather_Fossil",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0010154",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0010154",
+            "target": "Thùng_carton_bị_méo",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Nắp_thùng",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Ép_đè_nặng",
+            "relation": "DO_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0010154",
+            "target": "Khiếu_nại_bảo_hiểm",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0001127",
+            "target": "Bàn_phím_Keychron_K2",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0001127",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0001127",
+            "target": "Nắp_thùng_bị_hở",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Nắp_thùng_bị_hở",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0001127",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0007473",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0007473",
+            "target": "Nam_động_cơ_khô_Hàn_Quốc_500",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0007473",
+            "target": "Hàng_bị_vỡ",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Nhãn_sản_phẩm",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "TRK0007473",
+            "target": "Khiếu_nại_bảo_hiểm",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0002930",
+            "target": "Tẩy_trang_Bioderma_500ml",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0002930",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0002930",
+            "target": "Hàng_bị_vỡ",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Mặt_bên_phải",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Ẩm_ướt_xâm_nhập",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0002930",
+            "target": "Đóng_gói_lại_ngay",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0006830",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0006830",
+            "target": "Dây_curoa_Gates_5M-1500",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0006830",
+            "target": "Bao_bì_bị_ẩm_ướt",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Bao_bì_bị_ẩm_ướt",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0006830",
+            "target": "Thông_báo_khách_cho_ý_kiến",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0007751",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0007751",
+            "target": "Robot_hút_bụi_Roomba_j7+",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0007751",
+            "target": "Bao_bì_ẩm_ướt",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Bao_bì_ẩm_ướt",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0007751",
+            "target": "Lập_biên_bản_hủy",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0011076",
+            "target": "AirPods_Pro_2",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0011076",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0011076",
+            "target": "Thùng_carton_bị_méo",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Toàn_bộ_bao_bì",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Ẩm_ướt_xâm_nhập",
+            "relation": "DO_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0011076",
+            "target": "Lập_biên_bản_hủy",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0006769",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0006769",
+            "target": "Bình_Hydro_Flask_40oz",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0006769",
+            "target": "Vật_liệu_đóng_gói_không_đủ",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Vật_liệu_đóng_gói_không_đủ",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Vật_liệu_đóng_gói_không_đủ",
+            "target": "Góc_trái_dưới",
+            "relation": "Ở_VỊ_TRÍ"
+        },
+        {
+            "source": "Vật_liệu_đóng_gói_không_đủ",
+            "target": "Áp_lực_trong_vận_chuyển",
+            "relation": "DO_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0006769",
+            "target": "Đóng_gói_lại_ngay",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0000472",
+            "target": "Mascara_Lash_Sensational",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0000472",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0000472",
+            "target": "Nắp_thùng_bị_hở",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Nắp_thùng_bị_hở",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Nắp_thùng_bị_hở",
+            "target": "Nhãn_sản_phẩm",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "TRK0000472",
+            "target": "Thông_báo_khách_cho_ý_kiến",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0011741",
+            "target": "HP_Spectre_x360",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0011741",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0011741",
+            "target": "Nắp_thùng_bị_hở",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Nắp_thùng_bị_hở",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Nắp_thùng_bị_hở",
+            "target": "Bao_bì_ban_đầu_yếu",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0011741",
+            "target": "Khiếu_nại_bảo_hiểm",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0003639",
+            "target": "Robot_hút_bụi_Roomba_j7+",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0003639",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0003639",
+            "target": "Nắp_thùng_bị_hở",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Nắp_thùng_bị_hở",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0003639",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0004567",
+            "target": "Váy_maxi_boho",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0004567",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0004567",
+            "target": "Mất_nhãn_tracking",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Nhãn_sản_phẩm",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Ép_đè_nặng",
+            "relation": "DO_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0004567",
+            "target": "Đóng_gói_lại_ngay",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0008611",
+            "target": "Dao_rọc_giấy_Stanley",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0008611",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0008611",
+            "target": "Hàng_bị_vỡ",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Toàn_bộ_bao_bì",
+            "relation": "Ở_VỊ_TRÍ"
+        },
+        {
+            "source": "TRK0008611",
+            "target": "Đóng_gói_lại_ngay",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0003212",
+            "target": "Son_MAC_Ruby_Woo",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0003212",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0003212",
+            "target": "Mất_nhãn_tracking",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Nhãn_sản_phẩm",
+            "relation": "Ở_VỊ_TRÍ"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Ẩm_ướt_xâm_nhập",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0003212",
+            "target": "Khiếu_nại_bảo_hiểm",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0007147",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0007147",
+            "target": "Tẩy_trang_Bioderma_500ml",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0007147",
+            "target": "Nắp_thùng_bị_hở",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Nắp_thùng_bị_hở",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Nắp_thùng_bị_hở",
+            "target": "Nhãn_sản_phẩm",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "Nắp_thùng_bị_hở",
+            "target": "Ẩm_ướt_xâm_nhập",
+            "relation": "DO_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0007147",
+            "target": "Đóng_gói_lại_ngay",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0003647",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0003647",
+            "target": "Ốp_lưng_MagSafe",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0003647",
+            "target": "Mất_nhãn_tracking",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0003647",
+            "target": "Khiếu_nại_bảo_hiểm",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0008237",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0008237",
+            "target": "Dell_XPS_15",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0008237",
+            "target": "Để_hàng_khác_đè_lên",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Để_hàng_khác_đè_lên",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Để_hàng_khác_đè_lên",
+            "target": "Nắp_thùng",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "Để_hàng_khác_đè_lên",
+            "target": "Ẩm_ướt_xâm_nhập",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0008237",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0002842",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0002842",
+            "target": "Mật_ong_Manuka_UMF15+",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0002842",
+            "target": "Kiện_bị_để_hàng_khác_đè_lên",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Kiện_bị_để_hàng_khác_đè_lên",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Kiện_bị_để_hàng_khác_đè_lên",
+            "target": "Nắp_thùng",
+            "relation": "Ở_VỊ_TRÍ"
+        },
+        {
+            "source": "Kiện_bị_để_hàng_khác_đè_lên",
+            "target": "Rơi_thùng",
+            "relation": "DO_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0002842",
+            "target": "Thông_báo_khách_cho_ý_kiến",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0003718",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0003718",
+            "target": "Chuột_Logitech_MX_Master_3",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0003718",
+            "target": "Mất_nhãn_tracking",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0003718",
+            "target": "Đóng_gói_lại_ngay",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0000092",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0000092",
+            "target": "Áo_khoác_Zara_trench",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0000092",
+            "target": "Mép_hộp_bị_bẹp",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mép_hộp_bị_bẹp",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0000092",
+            "target": "Thông_báo_khách_cho_ý_kiến",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0008541",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0008541",
+            "target": "Vivo_X100",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0008541",
+            "target": "Mép_hộp_bị_bẹp",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mép_hộp_bị_bẹp",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Mép_hộp_bị_bẹp",
+            "target": "Nhãn_sản_phẩm",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "Mép_hộp_bị_bẹp",
+            "target": "Ép_đè_nặng",
+            "relation": "DO_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0008541",
+            "target": "Lập_biên_bản_hủy",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0001297",
+            "target": "Cushion_Laneige_Neo",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0001297",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0001297",
+            "target": "Kiện_bị_để_hàng_khác_đè_lên",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Kiện_bị_để_hàng_khác_đè_lên",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Kiện_bị_để_hàng_khác_đè_lên",
+            "target": "Nhãn_sản_phẩm",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "TRK0001297",
+            "target": "Rơi_thùng",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0001297",
+            "target": "Lập_biên_bản_hủy",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0004472",
+            "target": "Nồi_chiên_Philips_HD9252",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0004472",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0004472",
+            "target": "Thùng_carton_bị_méo",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Toàn_bộ_bao_bì",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Ép_đè_nặng",
+            "relation": "DO_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0004472",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0000164",
+            "target": "Sổ_tay_Moleskine_Softcover_A",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0000164",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0000164",
+            "target": "Mép_hộp_bị_bẹp",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mép_hộp_bị_bẹp",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Mép_hộp_bị_bẹp",
+            "target": "Góc_trái_dưới",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "Mép_hộp_bị_bẹp",
+            "target": "Rơi_thùng",
+            "relation": "DO_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0000164",
+            "target": "Đóng_gói_lại_ngay",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0000164",
+            "target": "Hàng_vẫn_nguyên_vẹn",
+            "relation": "CO_TRANG_THAI"
+        },
+        {
+            "source": "TRK0005551",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0005551",
+            "target": "Đồng_hồ_Seiko_Presage_SPB167",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0005551",
+            "target": "Vật_liệu_đóng_gói_không_đủ",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Vật_liệu_đóng_gói_không_đủ",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Vật_liệu_đóng_gói_không_đủ",
+            "target": "Nắp_thùng",
+            "relation": "Ở_VỊ_TRÍ"
+        },
+        {
+            "source": "Vật_liệu_đóng_gói_không_đủ",
+            "target": "Áp_lực_trong_vận_chuyển",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0005551",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0006373",
+            "target": "Đồng_hồ_Casio_G-Shock_GA",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0006373",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0006373",
+            "target": "Kiện_bị_để_hàng_khác_đè_lên",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Kiện_bị_để_hàng_khác_đè_lên",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Kiện_bị_để_hàng_khác_đè_lên",
+            "target": "Hàng_bị_hỏng",
+            "relation": "GAY_RA_TRANG_THAI"
+        },
+        {
+            "source": "Kiện_bị_để_hàng_khác_đè_lên",
+            "target": "Nắp_thùng",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "Kiện_bị_để_hàng_khác_đè_lên",
+            "target": "Ép_đè_nặng",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0006373",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0007354",
+            "target": "OPPO_Find_X7",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0007354",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0007354",
+            "target": "Mép_hộp_bị_bẹp",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mép_hộp_bị_bẹp",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Mép_hộp_bị_bẹp",
+            "target": "Toàn_bộ_bao_bì",
+            "relation": "Ở_VỊ_TRÍ"
+        },
+        {
+            "source": "Mép_hộp_bị_bẹp",
+            "target": "Ẩm_ướt_xâm_nhập",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0007354",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0002962",
+            "target": "Hạt_óc_chó_Mỹ_1kg",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0002962",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0002962",
+            "target": "Mất_nhãn_tracking",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Nhãn_sản_phẩm",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Ẩm_ướt_xâm_nhập",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0002962",
+            "target": "Đóng_gói_lại_ngay",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0001398",
+            "target": "Bút_máy_LAMY_Safari_EF",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0001398",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0001398",
+            "target": "Thùng_carton_bị_méo",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0001398",
+            "target": "Lập_biên_bản_hủy",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0002805",
+            "target": "Vòng_bi_SKF_6205-2RS",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0002805",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0002805",
+            "target": "Mép_hộp_bị_bẹp",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mép_hộp_bị_bẹp",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0002805",
+            "target": "Đóng_gói_lại_ngay",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0008328",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0008328",
+            "target": "Son_MAC_Ruby_Woo",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0008328",
+            "target": "Nắp_thùng_bị_hở",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Nắp_thùng_bị_hở",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Nắp_thùng_bị_hở",
+            "target": "Ẩm_ướt_xâm_nhập",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0008328",
+            "target": "Lập_biên_bản_hủy",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0000015",
+            "target": "Áo_khoác_Zara_trench",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0000015",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0000015",
+            "target": "Nắp_thùng_bị_hở",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Nắp_thùng_bị_hở",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Nắp_thùng_bị_hở",
+            "target": "Mặt_bên_phải",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "Nắp_thùng_bị_hở",
+            "target": "Ép_đè_nặng",
+            "relation": "DO_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0000015",
+            "target": "Lập_biên_bản_hủy",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0003557",
+            "target": "Gậy_leo_núi_Leki_Micro_Vario",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0003557",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0003557",
+            "target": "Kiện_bị_để_hàng_khác_đè_lên",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "TRK0003557",
+            "target": "Hư_hỏng_nhãn_sản_phẩm",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "TRK0003557",
+            "target": "Hàng_bị_hỏng",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Kiện_bị_để_hàng_khác_đè_lên",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Kiện_bị_để_hàng_khác_đè_lên",
+            "target": "Bao_bì_ban_đầu_yếu",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0003557",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0003331",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0003331",
+            "target": "Áo_hoodie_Uniqlo_fleece",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0003331",
+            "target": "Bao_bì_bị_ẩm_ướt",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Bao_bì_bị_ẩm_ướt",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Bao_bì_bị_ẩm_ướt",
+            "target": "Nắp_thùng",
+            "relation": "Ở_VỊ_TRÍ"
+        },
+        {
+            "source": "Bao_bì_bị_ẩm_ướt",
+            "target": "Áp_lực_trong_vận_chuyển",
+            "relation": "DO_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0003331",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0008424",
+            "target": "LEGO_Technic_42154_McLaren",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0008424",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0008424",
+            "target": "Mất_nhãn_tracking",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0008424",
+            "target": "Lập_biên_bản_hủy",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0001073",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0001073",
+            "target": "Máy_lọc_không_khí_Xiaomi_4_P",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0001073",
+            "target": "Hàng_bị_vỡ",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0001073",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0008843",
+            "target": "Yến_sào_sơ_chế_100g",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0008843",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0008843",
+            "target": "Hàng_bị_vỡ",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Nhãn_sản_phẩm",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Ép_đè_nặng",
+            "relation": "DO_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0008843",
+            "target": "Khiếu_nại_bảo_hiểm",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0001406",
+            "target": "Ốp_lưng_MagSafe",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0001406",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0001406",
+            "target": "Hàng_bị_vỡ",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0001406",
+            "target": "Thông_báo_khách_cho_ý_kiến",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0003649",
+            "target": "Máy_pha_cà_phê_Delonghi",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0003649",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0003649",
+            "target": "Hàng_bị_vỡ",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Mặt_bên_phải",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "TRK0003649",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0003445",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0003445",
+            "target": "Đồng_hồ_Seiko_Presage_SPB167",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0003445",
+            "target": "Bao_bì_bị_ẩm_ướt",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Bao_bì_bị_ẩm_ướt",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Bao_bì_bị_ẩm_ướt",
+            "target": "Ép_đè_nặng",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0003445",
+            "target": "Khiếu_nại_bảo_hiểm",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0000639",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0000639",
+            "target": "Dây_curoa_Gates_5M-1500",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0000639",
+            "target": "Hàng_bị_vỡ",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Toàn_bộ_bao_bì",
+            "relation": "Ở_VỊ_TRÍ"
+        },
+        {
+            "source": "TRK0000639",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0009680",
+            "target": "Cáp_USB-C_100W",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0009680",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0009680",
+            "target": "Hàng_bị_vỡ",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Nắp_thùng",
+            "relation": "Ở_VỊ_TRÍ"
+        },
+        {
+            "source": "Hàng_bị_vỡ",
+            "target": "Rơi_thùng",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0009680",
+            "target": "Đóng_gói_lại_ngay",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0009607",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0009607",
+            "target": "Nồi_chiên_Philips_HD9252",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0009607",
+            "target": "Thùng_carton_bị_méo",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Nhẹ",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0009607",
+            "target": "Giao_hàng_kèm_biên_bản",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0001096",
+            "target": "Board_game_Catan_5th_Ed",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0001096",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0001096",
+            "target": "Bao_bì_bị_ẩm_ướt",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Bao_bì_bị_ẩm_ướt",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0001096",
+            "target": "Đóng_gói_lại_ngay",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0001749",
+            "target": "Nồi_chiên_Philips_HD9252",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0001749",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0001749",
+            "target": "Mép_hộp_bị_bẹp",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mép_hộp_bị_bẹp",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Mép_hộp_bị_bẹp",
+            "target": "Nhãn_sản_phẩm",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "Mép_hộp_bị_bẹp",
+            "target": "Ép_đè_nặng",
+            "relation": "DO_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0001749",
+            "target": "Lập_biên_bản_hủy",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0002240",
+            "target": "Kem_chống_nắng_Anessa_SPF50",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0002240",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0002240",
+            "target": "Mất_nhãn_tracking",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Toàn_bộ_bao_bì",
+            "relation": "TẠI_VỊ_TRÍ"
+        },
+        {
+            "source": "Mất_nhãn_tracking",
+            "target": "Ép_đè_nặng",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0002240",
+            "target": "Thông_báo_khách_cho_ý_kiến",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0006201",
+            "target": "Dây_chuyền_vàng_14K_40cm",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0006201",
+            "target": "Kho_Đà_Nẵng",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0006201",
+            "target": "Bao_bì_bị_ẩm_ướt",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Bao_bì_bị_ẩm_ướt",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Bao_bì_bị_ẩm_ướt",
+            "target": "Mặt_bên_phải",
+            "relation": "Ở_VỊ_TRÍ"
+        },
+        {
+            "source": "Bao_bì_bị_ẩm_ướt",
+            "target": "Ép_đè_nặng",
+            "relation": "DO_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0006201",
+            "target": "Thông_báo_khách_cho_ý_kiến",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0009526",
+            "target": "Quần_jeans_Levi_501",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0009526",
+            "target": "Kho_HN_Hoàng_Mai",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0009526",
+            "target": "Thùng_carton_bị_méo",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Thùng_carton_bị_méo",
+            "target": "Trung_bình",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "TRK0009526",
+            "target": "Đóng_gói_lại_ngay",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        },
+        {
+            "source": "TRK0010273",
+            "target": "Samsung_Galaxy_S24",
+            "relation": "CHỨA_SẢN_PHẨM"
+        },
+        {
+            "source": "TRK0010273",
+            "target": "Kho_HCM_Tân_Bình",
+            "relation": "XẢY_RA_TẠI"
+        },
+        {
+            "source": "TRK0010273",
+            "target": "Kiện_bị_để_hàng_khác_đè_lên",
+            "relation": "BỊ_TÌNH_TRẠNG"
+        },
+        {
+            "source": "Kiện_bị_để_hàng_khác_đè_lên",
+            "target": "Nặng",
+            "relation": "CÓ_MỨC_ĐỘ"
+        },
+        {
+            "source": "Kiện_bị_để_hàng_khác_đè_lên",
+            "target": "Rơi_thùng",
+            "relation": "CÓ_NGUYÊN_NHÂN"
+        },
+        {
+            "source": "TRK0010273",
+            "target": "Đóng_gói_lại_ngay",
+            "relation": "ĐỀ_XUẤT_XỬ_LÝ"
+        }
+    ]
+}
